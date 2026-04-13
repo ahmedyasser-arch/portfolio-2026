@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import {
-  Mail, Phone, MapPin, Download, ChevronRight, ChevronLeft, X,
-  Maximize2, Layers, Briefcase, GraduationCap, Layout, Camera,
+import { 
+  Mail, Phone, MapPin, Download, ChevronRight, ChevronLeft, X, 
+  Maximize2, Layers, Briefcase, GraduationCap, Layout, Camera, 
   Settings, ShieldCheck, PenTool, CheckCircle2, Ruler, HardHat,
   Monitor, Smartphone, Globe, ArrowRight, ArrowLeft, Menu,
   Linkedin, Instagram, ExternalLink, Box, AlertCircle, Clock, BookOpen
